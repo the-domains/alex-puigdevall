@@ -1,7 +1,7 @@
 name: Alex Puigdevall
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.32163503603078425
+typography_spectrum: 0.52715
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.22467341530136764
+  brandStrength: 0.1875
   lightness: 0.49208445427939296
   saturation: 0.8530715887900442
   rhythmicContrast: 0.06349241966381669
